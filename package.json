@@ -1,0 +1,13 @@
+{
+  "name": "xnxx-webapp",
+  "version": "1.0.0",
+  "description": "Web sederhana untuk mencari video menggunakan xnxx-scraper",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "xnxx-scraper": "^1.0.0"
+  }
+}
