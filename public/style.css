@@ -1,0 +1,13 @@
+body {
+  background: #f8f9fa;
+}
+.card {
+  border: none;
+  border-radius: 1rem;
+}
+#results a {
+  text-decoration: none;
+}
+#results a:hover {
+  text-decoration: underline;
+}
